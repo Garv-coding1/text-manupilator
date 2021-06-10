@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    width:100%;
+    box-shadow: 5px 7px 5px rgb(114, 148, 36);
+    margin-top: -4px;
+    font-size: 30px;
+    background-color:rgb(49, 44, 44);
+    color:white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.note {
+    font-size: 17px;
+    color:rgb(148, 150, 32);
+}
+
+.font {
+    font-size:22px;
+    margin-top:7px;
+}
+
+.copyright_footer{
+    width:100%;
+    bottom:0;
+    text-align: center;
+    background-color: rgb(32, 32, 29);
+    line-height: 3;
+    position:fixed;
+    color: rgb(155, 204, 41);
+}
+
+canvas {
+    box-shadow: 5px 7px 5px rgb(188, 223, 35);
+    border: inset 3px rgb(54, 54, 45);
+}
